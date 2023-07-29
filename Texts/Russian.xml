@@ -3,6 +3,18 @@
   <!-- Assistant Suits -->
   <entityname.barodrama_routinesuit>Обычный водолазный скафандр</entityname.barodrama_routinesuit>
   <entitydescription.barodrama_routinesuit>[Глубина 4000м] Этот скафандр стал синонимом новобранцев, стремящихся доказать свою ценность. Модульная и удивительно легкая конструкция позволяет адаптироваться к многочисленным задачам во время плавания.</entitydescription.barodrama_routinesuit>
+  <entityname.barodrama_proceduresuit>Водолазный скафандр стандартных операций</entityname.barodrama_proceduresuit>
+  <entitydescription.barodrama_proceduresuit>[Глубина 6000м] Водолазный скафандр был модифицирован рядом вычислителей и силовыми системами, удовлетворяющих растущие требования по размещению вещей во время вояжа вне лодки. Оборудован логистическим ПДА и увеличенным хранилищем - помните о нагрузке на ноги.</entitydescription.barodrama_proceduresuit>
+  <entityname.barodrama_issacsuit>"Искра" Водолазный скафандр операций по электрике</entityname.barodrama_issacsuit>
+  <entitydescription.barodrama_issacsuit>[Глубина 6000м] Популярный среди Младших Ядерных Техников водолазный скафандр "Искра" оснащён рядом прикладных модификаций со вторичного рынка, улучшающих удержание под контролем реактора подводной лодки. Свинцовый фартук, пояс для инструментов и ряд функциональных улучшений сделало его стандартом Коалиции с одобрения легендарного инженера, давшего ему свое имя.</entitydescription.barodrama_issacsuit>
+  <entityname.barodrama_apprenticesuit>"Подмастерье" Водолазный скафандр операций по механике</entityname.barodrama_apprenticesuit>
+  <entitydescription.barodrama_apprenticesuit>[Глубина 6000м] Несмотря на колоритный вид, обычный вариант "Подмастерья" имеет изящные и дискретные модификаций, которые способен оценить только тот, кто работает с такими инструментами. Переоборудованные и спаренные со стеклом ЛуроТех Асёрмал сенсоры Арк, позволяют проводить операции по ремонту и строительство на той глубине, куда судьба забросит вас.</entitydescription.barodrama_apprenticesuit>
+  <entityname.barodrama_nursesuit>"Фармацевт" Водолазный скафандр медицинских операций</entityname.barodrama_nursesuit>
+  <entitydescription.barodrama_nursesuit>[Глубина 6000м] Обычный скафандр для Медицинского корпуса Коалиции, "Фармацевт" оснащен рядом удобных функций, которые по достоинству оценит любой уважающий себя врач. Система сканера из коробки замена на прецизионный телеобъектив, а переработанное обмундирование морской разведки позволяет хранить необходимые медицинские инструменты.</entitydescription.barodrama_nursesuit>
+  <entityname.barodrama_cadetsuit>"Кадет" Водолазный скафандр операций охраны</entityname.barodrama_cadetsuit>
+  <entitydescription.barodrama_cadetsuit>[Глубина 6000м] Скафандр "Кадет" был разработан с учётом требований для ношения Баллистический Брони Коалиции и использовании радио протокола CDIESS. Улучшенному оборудование и программного обеспечение усиливает людские ресурсы при сражении во вне или внутри подводной лодки.</entitydescription.barodrama_cadetsuit>
+  <entityname.barodrama_navigatorsuit>"Навигатор" Водолазный скафандр операций пилотов</entityname.barodrama_navigatorsuit>
+  <entitydescription.barodrama_navigatorsuit>[Глубина 6000м] Отличительная оптическая решётка это только одна из многих своеобразных конструктивных особенностей обычного водолазного скафандра "Навигатор". Большинство характеристик засекречено. Оснащенный для работ офицера-штурмана, непреклонный взгляд этого костюма, дополненный широкополосными гидролокаторами, обеспечил ему популярность среди Адмиралтейства Коалиции. </entitydescription.barodrama_navigatorsuit>
   <entityname.barodrama_foolsuit>Водолазный скафандр дурака</entityname.barodrama_foolsuit>
   <entitydescription.barodrama_foolsuit>[Глубина 6000м] Несмотря на то, что этот скафандр рассчитан на давление, он не оснащен кислородным баллоном. Только полный дурак наденет его!</entitydescription.barodrama_foolsuit>
   <entityname.barodrama_coalitionsuit>Костюм Коалиции</entityname.barodrama_coalitionsuit>
@@ -29,11 +41,11 @@
   <entitydescription.barodrama_lampreysuit>[Глубина 6000м] Считается "братом" водолазного костюма ЭИЛ и предназначен для боевой инженерии. Минога - это силовой костюм, который уменьшает отдачу оружия пользователя и повышает мобильность в включенном состоянии. Для случаев, когда вам нужен гаечный ключ в левой руке и пистолет в правой, есть несколько лучших вариантов.</entitydescription.barodrama_lampreysuit>
   <!--Mechanic suits-->
   <entityname.barodrama_whalesuit>Тяжелый водолазный скафандр КИТ</entityname.barodrama_whalesuit>
-  <entitydescription.barodrama_whalesuit>[Глубина 10000м] Крепко бронированный скафандр для глубоководной добычи со встроенным сонаром, отслеживающий минералы и встроенными гидрореакторами для повышенной мобильности в воде. Питается перезаряжаемыи аккумуляторами. Его способность противостоять сейсмическим зарядам спасла жизни многим, и все они божатся силой КИТА.</entitydescription.barodrama_whalesuit>
+  <entitydescription.barodrama_whalesuit>[Глубина 10000м] Крепко бронированный скафандр для глубоководной добычи со встроенным сонаром, отслеживающий минералы и встроенными гидрореакторами для повышенной мобильности в воде. Питается перезаряжаемыми аккумуляторами. Его способность противостоять сейсмическим зарядам спасла жизни многим, и все они божатся силой КИТА.</entitydescription.barodrama_whalesuit>
   <entityname.barodrama_belugiasuit>Химический водолазный скафандр Белуга</entityname.barodrama_belugiasuit>
   <entitydescription.barodrama_belugiasuit>[Глубина 6000м] Разработанный на основе КИТа, Белуга - это тяжелый водолазный костюм, предназначенный для обширного ремонта корпуса судна. Поставляется со встроенным монитором состояния и химическим преобразователем для заправки сварочных баллонов.</entitydescription.barodrama_belugiasuit>
   <entityname.barodrama_orcasuit>Заряженный водолазный скафандр Косатка</entityname.barodrama_orcasuit>
-  <entitydescription.barodrama_orcasuit>[Глубина 8000м] Тяжелый скафандр для глубоководных погружений с бортовым блоком аккумуляторов. Полезен для обеспечения дополнительной энергией электроинструментов. Устойчив к различным повреждением, являясь веткой скафандров КИТ.</entitydescription.barodrama_orcasuit>
+  <entitydescription.barodrama_orcasuit>[Глубина 8000м] Тяжелый скафандр для глубоководных погружений с бортовым блоком аккумуляторов. Полезен для обеспечения дополнительной энергией электроинструментов. Устойчив к различным повреждениям, являясь веткой скафандров КИТ.</entitydescription.barodrama_orcasuit>
   <entityname.barodrama_fabpda>Удаленное производство</entityname.barodrama_fabpda>
   <!--Medic suits-->
   <entityname.barodrama_waspsuit>Медицинский водолазный скафандр Оса</entityname.barodrama_waspsuit>
@@ -54,6 +66,10 @@
   <entityname.barodrama_vipersuit>Боевой водолазный скафандр Гадюка</entityname.barodrama_vipersuit>
   <entitydescription.barodrama_vipersuit>[Глубина 6000м] Этот военизированный водолазный скафандр, получивший известость на Станция Осада силами Юпитирианских сеператистов. Оснащен дополнительным магазином для хранения и встроенной в раму кобурой для оружия. Его шлем, первоначально предназначенный для горных работ, теперь служит на передовой революции.</entitydescription.barodrama_vipersuit>
   <!--Special Items-->
+  <entityname.barodrama_honeyjar>Jar of Honey</entityname.barodrama_honeyjar>
+  <entitydescription.barodrama_honeyjar>A synthesized medicinal compound, rich both in flavor and disinfectant properties. Many sailors have taken a liking to sweetening their drinks with this substance, often to quesitonable results.</entitydescription.barodrama_honeyjar>
+  <entityname.barodrama_medicine>The Only Medicine</entityname.barodrama_medicine>
+  <entitydescription.barodrama_medicine>An Unadulterated Alcoholic concoction, pungently sweetened with honey to mask the overwhelming potency of the brew. Doldrums are eviler than the devil, and this'll keep them at bay.</entitydescription.barodrama_medicine>
   <entityname.barodrama_wreckadmiralsuit>Форма Холта (поврежденная)</entityname.barodrama_wreckadmiralsuit>
   <entitydescription.barodrama_wreckadmiralsuit>Европейские моря безжалостны к тканям, но это пальто каким-то образом сохранилось на протяжении десятилетий. Возможно, его можно отреставрировать?</entitydescription.barodrama_wreckadmiralsuit>
   <entityname.barodrama_admiralsuit>Форма Холта</entityname.barodrama_admiralsuit>
@@ -62,6 +78,10 @@
   <entitydescription.barodrama_wreckedvisage>Ветхая гарнитура, знаки отличия и серийные коды на ней неузнаваемы. Несмотря на неработоспособность, каркас этого визора все еще довольно прочный и может быть восстановлен при наличии необходимых материалов.</entitydescription.barodrama_wreckedvisage>
   <entityname.barodrama_visage>Лик Холта</entityname.barodrama_visage>
   <entitydescription.barodrama_visage>Оптический имплантат в паре с защитной броней и сенсорным массивом - флагманский прототип ныне несуществующей кибернетической корпорации, членом которой был адмирал Холт.</entitydescription.barodrama_visage>
+  <entityname.barodrama_suitartifact>Мистический Артифакт</entityname.barodrama_suitartifact>
+  <entitydescription.barodrama_suitartifact>Контейнер имеет фрактальное проихождение. Необычно богато украшенная конструкция. Внутренняя работа этого устройства по своей сути загадочна. Гравюры на поверхности реагируют на ваше прикосновение, а завораживающие кристаллические узоры, кажется, текут вместе с вашей перспективой - возможно, это своего рода коробка-головоломка? У того, кто особенно искусен, может быть шанс расшифровать его.</entitydescription.barodrama_suitartifact>
+  <entityname.barodrama_narwhalsuit>Нарвал</entityname.barodrama_narwhalsuit>
+  <entitydescription.barodrama_narwhalsuit>Возмутительно гламурный костюм, изготовленный из таинственного артефакта, каким-то образом приспособленный для использования человеком - несмотря на то, что он имеет фрактальное происхождение. При включении может использовать мощный лазерный излучатель. Но тот кто носит данный каркас в море не будут знать покоя, либо зов сирен вызовет самых жестоких и отвратительных существ океана.</entitydescription.barodrama_narwhalsuit>
   <!--Drama-->
   <tyrant.tb1>Активный</tyrant.tb1>
   <tyrant.tb2>Неблагоприятный</tyrant.tb2>
@@ -94,6 +114,8 @@
   <afflictionname.stealthmantis>Анти-Меметика</afflictionname.stealthmantis>
   <afflictiondescription.stealthmantis>Антимеметического разделения не существует.</afflictiondescription.stealthmantis>
   <afflictionname.mantisoverload>Загрузка артефакта</afflictionname.mantisoverload>
+  <afflictiondescription.narwhalsong> НАРВАЛ! НАРВАЛ! ПЛАВАЕТ ПО МОРЮ! ВЫЗЫВАЕТ ЗАВИСТЬ, ПОТОМУ ЧТО КЛЁВЫЙ!</afflictiondescription.narwhalsong> <!-- Weebl - Narwhals -->
+  <afflictionname.narwhalsong>Нарвалы</afflictionname.narwhalsong>
   <!--Barodramatic-->
   <afflictiontype.stun>Оглушить</afflictiontype.stun>
   <afflictiontype.poison>Яд</afflictiontype.poison>
@@ -115,19 +137,5 @@
   <entityname.barodrama_edd_viper>Диск костюма Гадюка</entityname.barodrama_edd_viper>
   <entityname.barodrama_edd_wasp>Диск костюма Оса</entityname.barodrama_edd_wasp>
   <entityname.barodrama_edd_whale>Диск костюма КИТ</entityname.barodrama_edd_whale>
-  <entitydescription.barodrama_edd_beetle>Инициируемый одним пользователем технический диск, содержащий чертеж специального водолазного скафандра. Этот чертеж может быть извлечен только одним пользователем, после чего он стирается.</entitydescription.barodrama_edd_beetle>
-  <entitydescription.barodrama_edd_belugia>Инициируемый одним пользователем технический диск, содержащий чертеж специального водолазного скафандра. Этот чертеж может быть извлечен только одним пользователем, после чего он стирается.</entitydescription.barodrama_edd_belugia>
-  <entitydescription.barodrama_edd_cobra>Инициируемый одним пользователем технический диск, содержащий чертеж специального водолазного скафандра. Этот чертеж может быть извлечен только одним пользователем, после чего он стирается.</entitydescription.barodrama_edd_cobra>
-  <entitydescription.barodrama_edd_director>Инициируемый одним пользователем технический диск, содержащий чертеж специального водолазного скафандра. Этот чертеж может быть извлечен только одним пользователем, после чего он стирается.</entitydescription.barodrama_edd_director>
-  <entitydescription.barodrama_edd_eel>Инициируемый одним пользователем технический диск, содержащий чертеж специального водолазного скафандра. Этот чертеж может быть извлечен только одним пользователем, после чего он стирается.</entitydescription.barodrama_edd_eel>
-  <entitydescription.barodrama_edd_lamprey>Инициируемый одним пользователем технический диск, содержащий чертеж специального водолазного скафандра. Этот чертеж может быть извлечен только одним пользователем, после чего он стирается.</entitydescription.barodrama_edd_lamprey>
-  <entitydescription.barodrama_edd_mantis>Инициируемый одним пользователем технический диск, содержащий чертеж специального водолазного скафандра. Этот чертеж может быть извлечен только одним пользователем, после чего он стирается.</entitydescription.barodrama_edd_mantis>
-  <entitydescription.barodrama_edd_moray>Инициируемый одним пользователем технический диск, содержащий чертеж специального водолазного скафандра. Этот чертеж может быть извлечен только одним пользователем, после чего он стирается.</entitydescription.barodrama_edd_moray>
-  <entitydescription.barodrama_edd_orca>Инициируемый одним пользователем технический диск, содержащий чертеж специального водолазного скафандра. Этот чертеж может быть извлечен только одним пользователем, после чего он стирается.</entitydescription.barodrama_edd_orca>
-  <entitydescription.barodrama_edd_renegade>Инициируемый одним пользователем технический диск, содержащий чертеж специального водолазного скафандра. Этот чертеж может быть извлечен только одним пользователем, после чего он стирается.</entitydescription.barodrama_edd_renegade>
-  <entitydescription.barodrama_edd_winder>Инициируемый одним пользователем технический диск, содержащий чертеж специального водолазного скафандра. Этот чертеж может быть извлечен только одним пользователем, после чего он стирается.</entitydescription.barodrama_edd_winder>
-  <entitydescription.barodrama_edd_tyrant>Инициируемый одним пользователем технический диск, содержащий чертеж специального водолазного скафандра. Этот чертеж может быть извлечен только одним пользователем, после чего он стирается.</entitydescription.barodrama_edd_tyrant>
-  <entitydescription.barodrama_edd_viper>Инициируемый одним пользователем технический диск, содержащий чертеж специального водолазного скафандра. Этот чертеж может быть извлечен только одним пользователем, после чего он стирается.</entitydescription.barodrama_edd_viper>
-  <entitydescription.barodrama_edd_wasp>Инициируемый одним пользователем технический диск, содержащий чертеж специального водолазного скафандра. Этот чертеж может быть извлечен только одним пользователем, после чего он стирается.</entitydescription.barodrama_edd_wasp>
-  <entitydescription.barodrama_edd_whale>Инициируемый одним пользователем технический диск, содержащий чертеж специального водолазного скафандра. Этот чертеж может быть извлечен только одним пользователем, после чего он стирается.</entitydescription.barodrama_edd_whale>
+  <entitydescription.barodrama_edd>Инициируемый одним пользователем технический диск, содержащий чертеж специального водолазного скафандра. Этот чертеж может быть извлечен только одним пользователем, после чего он стирается.</entitydescription.barodrama_edd>
 </infotexts>
